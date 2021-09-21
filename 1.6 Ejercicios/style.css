@@ -1,0 +1,16 @@
+img {
+  width: 500px;
+  height: 200px;
+}
+
+.oculto {
+  display: none;
+}
+
+body {
+  height: 100vh; /* esto hace que el alto del body sea el 100% de la pantalla.*/
+}
+
+#gif {
+  position: fixed;
+}
